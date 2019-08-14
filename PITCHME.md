@@ -112,7 +112,9 @@ HTMLに処理を埋め込んでも
 - 違和感が少ない！
 - 見やすい！
 ---?code=CodeForPHP.php
-@[2]PHPでこうなのが・・・
+@[2,8]
+@[4,5]
+PHPでこうなのが・・・
 ---?code=CodeForBlade.php
 Bladeだとこう！
 ---
