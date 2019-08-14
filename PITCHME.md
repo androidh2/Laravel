@@ -112,8 +112,6 @@ HTMLに処理を埋め込んでも
 - 違和感が少ない！
 - 見やすい！
 ---?code=CodeForPHP.php
-@[2,8](PHPの範囲を宣言)
-@[4,6](echoでHTMLを文字列として結合)
 PHPでこうなのが・・・
 ---?code=CodeForBlade.php
 Bladeだとこう！
