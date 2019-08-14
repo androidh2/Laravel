@@ -1,3 +1,3 @@
 # Laravel
 GitPitchでLaravelの紹介
-https://gitpitch.com/androidh2/laravel
+- https://gitpitch.com/androidh2/laravel
