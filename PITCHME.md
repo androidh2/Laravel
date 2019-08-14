@@ -130,11 +130,19 @@ HTMLに処理を埋め込んでも
 ---
 お次は
 ---
-## Eloquent(ORM)
+## Eloquent（エロクアント）
+---
+ORM
+---
+Object-Rrational Mapping の一種で
 ---
 DB操作がオブジェクトっぽく扱える
 ---
-C#のLINQみないな感じ
+使ってみたら
+---
+なんとなく
+---
+C#のLINQみないな感じだった
 ---
 OK!
 ## Larabel
