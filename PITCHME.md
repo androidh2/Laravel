@@ -111,7 +111,7 @@ HTMLに処理を埋め込んでも
 - 見やすい！
 ---
 Bladeだと
----?code=code at Blade.php
+---?code=CodeAtBlade.php
 ---
 いいね！
 ## Larabel
