@@ -1,5 +1,9 @@
 @if
-<li><span>{{$item[''disp]}}</span></li>
+<li>
+  <span>{{$item['disp']}}</span>
+</li>
 @else
-<li></li>
+<li>
+  <a href="{{$item['link']}}">{{$item['disp']}}</a>
+</li>
 @endif
