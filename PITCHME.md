@@ -147,7 +147,7 @@ Bladeだとこう！
 ---
 ORM
 ---
-Object-Rrational Mapping の一種で
+Object-Relational Mapping の一種で
 ---
 DB操作がオブジェクトっぽく扱える
 ---
