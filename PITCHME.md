@@ -110,6 +110,9 @@ HTMLに処理を埋め込んでも
 - 違和感が少ない！
 - 見やすい！
 ---
+Bladeだと
+---?code=code at Blade.php
+---
 いいね！
 ## Larabel
 ---
