@@ -1,3 +1,4 @@
+<div>Code For Blade</div>
 @if ($item['class']==0)
   <li>
     <span>{{$item['disp']}}</span>
