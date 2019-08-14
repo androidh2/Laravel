@@ -109,9 +109,8 @@ MVCのV（画面表示を担当するところ）なんだけど
 HTMLに処理を埋め込んでも
 - 違和感が少ない！
 - 見やすい！
----
-Bladeだと
 ---?code=CodeAtBlade.php
+Bladeだとこう
 ---
 いいね！
 ## Larabel
